@@ -1,13 +1,10 @@
 # Meteor Boilerplate Project
 
-## DESCRIPTION
+## Description
 
-Meteor boilerplate code based on personal workflow and Meteor Guide's recommendations:
-    
-[Code Style](http://guide.meteor.com/code-style.html)
-[Project Structure](http://guide.meteor.com/structure.html)
+Meteor boilerplate code based on personal workflow and Meteor Guide's recommendations for [Code Style](http://guide.meteor.com/code-style.html) and [Project Structure](http://guide.meteor.com/structure.html)
 
-## USAGE
+## Usage
 
 **1. Refactor project's name**
    
