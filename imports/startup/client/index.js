@@ -4,5 +4,5 @@
  * Import client startup through a single index entry point
  */
 
-import './useraccounts-configuration';
-import './routes';
+// import './useraccounts-configuration';
+// import './routes';

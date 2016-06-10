@@ -7,7 +7,7 @@ node_modules/
 .meteor/local
 
 # meteor settings file
-settings.json
+#settings.json
 
 # meteor build output files
 *.tar.gz
@@ -48,7 +48,7 @@ settings.json
 ## Plugin-specific files:
 
 # IntelliJ
-/out/
+/.out/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
